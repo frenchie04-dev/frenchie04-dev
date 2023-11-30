@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frenchie04-dev
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me 22joe.french@utcportsmouth.org
