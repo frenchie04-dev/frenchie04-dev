@@ -2,4 +2,4 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 22joe.french@utcportsmouth.org
+- 📫 How to reach me joe.j.french@hotmail.com
